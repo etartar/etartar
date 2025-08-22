@@ -36,7 +36,6 @@ I’m a senior backend developer specializing in building Web Applications. I wo
 ![Clean Architecture](https://img.shields.io/badge/-CleanArchitecture-FF6F00?style=flat)
 ![Modular Monolith Architecture](https://img.shields.io/badge/-ModularMonolith-FF6F00?style=flat)
 ![DDD](https://img.shields.io/badge/-DDD-FF6F00?style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
