@@ -28,15 +28,24 @@ I’m a senior backend developer specializing in building Web Applications. I wo
 
 ## 🧰 Technologies & Tools
 
-![.NET](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Dotnet-Software-brightgreen)
+![Static Badge](https://img.shields.io/badge/WebApi-Development-brightgreen)
+![Static Badge](https://img.shields.io/badge/REST%20Api-Development-green)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat)
 ![Microservices](https://img.shields.io/badge/-Microservices-FF6F00?style=flat)
+![Clean Architecture](https://img.shields.io/badge/-CleanArchitecture-FF6F00?style=flat)
+![Modular Monolith Architecture](https://img.shields.io/badge/-ModularMonolith-FF6F00?style=flat)
+![DDD](https://img.shields.io/badge/-DDD-FF6F00?style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-ff0000?style=flat&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-269539?style=flat&logo=nginx&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
 ---
